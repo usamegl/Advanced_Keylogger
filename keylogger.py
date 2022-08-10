@@ -1,3 +1,15 @@
+
+
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Aug 9 13:08:47 2022
+
+@author: Arch
+"""
+
+
+
+
 #Libraries
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
