@@ -1,4 +1,6 @@
 # Advanced_Keylogger
+
+
 an advanced_keylogger with python
 
 
@@ -19,6 +21,8 @@ and finally encrypting files
 
 
 -----------------------------------TR------------------------------------------------------------
+
+
 Bu keylogger da birçok şey mevcut.
 
 
